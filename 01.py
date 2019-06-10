@@ -1,3 +1,3 @@
 "hello world"
-def myfu():
+def myfun():
     pass
