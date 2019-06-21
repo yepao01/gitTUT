@@ -1,1 +1,4 @@
-#0.py
+#001.py
+def myfun():
+    pass
+
